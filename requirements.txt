@@ -6,7 +6,7 @@ pydub==0.24.1
 python-Levenshtein
 tqdm
 pillow
-pydantic==1.8.2
+pydantic==1.10.13
 numpy
 pandas
 opencv-python
@@ -20,7 +20,7 @@ lmdb
 gtimer
 filelock
 termcolor
-torch==1.7.1
+torch==2.8.0
 torchvision==0.8.2
 tensorboardX==1.8
 Flask
